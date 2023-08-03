@@ -1,6 +1,6 @@
-### Hi there 👋
+
 ![AllenBlesson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenBlesson&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBlesson&layout=donut)](https://github.com/AllenBlesson/github-readme-stats)
+
 
 <h1 align="center">Hi 👋, I'm Allen</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allenblesson" alt="allenblesson" /></a> </p>
