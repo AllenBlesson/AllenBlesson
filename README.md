@@ -2,7 +2,7 @@
 ![AllenBlesson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenBlesson&show_icons=true&theme=transparent)
 
 
-<h1 align="center">Hi 👋, I'm Allen</h1>
+
 
 <p align="left">
 </p>
